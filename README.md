@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navya Saxena</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navyasaxena29&show_icons=true&locale=en&layout=compact" alt="navyasaxena29" /></div>
+<div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navyasaxena29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
